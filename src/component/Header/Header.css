@@ -1,0 +1,22 @@
+.header{
+    background-color: #3c0e61c9;
+}
+.header-conteiner{
+    width: 80%;
+    height: 90px; 
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-menu a{
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+    font-size: 16px;
+    font-family: arial;
+}
+.header-menu a:hover{
+    color: orange;
+    transition: .5s;
+}
